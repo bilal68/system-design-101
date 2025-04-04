@@ -9,7 +9,9 @@
   "license": "cc-by-nc-sd-4.0",
   "devDependencies": {
     "@types/node": "^22.13.14",
+    "dotenv": "^8.2.0",
     "gray-matter": "^4.0.3",
+    "node-fetch": "^3.3.2",
     "tsx": "^4.19.3"
   }
 }
